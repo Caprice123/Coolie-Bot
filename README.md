@@ -18,7 +18,7 @@
 ## Overview
 
 ### Description
- In this era, robot is not a strange things for us. Robot helps us many things, such as helping someone to lift something. In this project, we make a prototype robot using ESP32 and we want to control it from far away. The target for this project is for factory so that it will reduce the workers to transport some part from one place to another. In this project, we only use three place that are represented as place A, place B, place C. For the robot reach place A or B or C, the robot need sensor that can sense the indication whether it is already in place, so we use color sensor to indicate that.
+ In this era, robot is not a strange things for us. Robot helps us many things, such as helping someone to lift something. In this project, we make a prototype robot using ESP32 and we want to control it from far away. The target for this project is for factory so that it will help the workers to transport some part from one place to another. In this project, we only use three place that are represented as place A, place B, place C. For the robot reach place A or B or C, the robot need sensor that can sense the indication whether it is already in place, so we use color sensor to indicate that.
  
 ### The challenge
   - How to make color sensor as the indicator for the robot
