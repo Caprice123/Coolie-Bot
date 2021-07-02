@@ -59,6 +59,6 @@ void callback(char* topic, byte* payload, unsigned int length) {
 ### Author
 - [Kelvin Cendra](https://github.com/Caprice123)
 - [Raymond Winsher](https://github.com/Raywinsher21)
-- [Ardhian Mahendar]()
-- [Irvine]()
-- [Richie Eviendy]()
+- [Ardhian Mahendar](https://github.com/ArdhianM)
+- [Irvine](https://github.com/Enivri)
+- [Richie Eviendy](https://github.com/rczto)
