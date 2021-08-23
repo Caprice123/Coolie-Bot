@@ -1,5 +1,5 @@
 # Coolie Bot (Robot for Transporting using MQTT)
- Coolie Bot is a robot that is used for transporting things from one place to other place. This robot is still prototype using arduino as the microcontroller.
+ Coolie Bot is a robot that is used for transporting things from one place to other place. This robot is still prototype using ESP32 as the microcontroller.
  
 ## Table of contents
 
